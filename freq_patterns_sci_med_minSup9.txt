@@ -1,0 +1,1238 @@
+fast:9
+leave:9
+notice:9
+evening:9
+talk:9
+details:9
+spread:9
+significance:9
+tends:9
+nerves:9
+coming:9
+physical:9
+unlikely:9
+shouldn:9
+update:9
+intended:9
+charter:9
+chips:9
+happy:9
+hmmm:9
+livermore:9
+ready:9
+carry:9
+commercial:9
+confirmed:9
+definition:9
+dictionary:9
+material:9
+organisms:9
+producing:9
+se:9
+significantly:9
+solid:9
+woman:9
+examples:9
+peter:9
+places:9
+poor:9
+professor:9
+sale:9
+signature:9
+supplies:9
+turns:9
+purely:9
+knowing:9
+section:9
+flame:9
+1993apr21:9
+austin:9
+va:9
+seemed:9
+claire:9
+eau:9
+eau	claire:9
+metabolic:9
+neurologist:9
+understood:9
+whoever:9
+wi:9
+wishes:9
+joseph:9
+resources:9
+convincing:9
+einstein:9
+lips:9
+november:9
+permanent:9
+reached:9
+responds:9
+worthless:9
+att:9
+bacterial:9
+began:9
+infants:9
+late:9
+transmitted:9
+accept:9
+animal:9
+association:9
+baby:9
+component:9
+conducted:9
+count:9
+death:9
+differences:9
+domain:9
+environmental:9
+individual:9
+led:9
+missing:9
+nature:9
+nih:9
+numbers:9
+resulting:9
+rule:9
+signs:9
+smaller:9
+corporation:9
+dna:9
+heat:9
+shock:9
+__:9
+programmer:9
+212:9
+nobody:9
+average:9
+phenomena:9
+suggestion:9
+regular:9
+antibiotic:9
+heal:9
+1987:9
+minute:9
+cook:9
+smoking:9
+arizona:9
+attached:9
+cities:9
+ibd:9
+lining:9
+private:9
+dc:9
+sciences:9
+pointed:9
+top:9
+file:9
+theories:9
+vomiting:9
+self:9
+dream:9
+cereals:9
+eyes:9
+kellog:9
+region:9
+de:9
+student:9
+huge:9
+km:9
+km	ken:9
+mitchum:9
+mitchum	ken:9
+mitchum	km:9
+ken	mitchum	km:9
+dougb:9
+dougb	comm:9
+numerous:9
+consumption:9
+king:9
+final:9
+nice:9
+slightly:9
+86:9
+mri:9
+options:9
+sleep:9
+wear:9
+somehow:9
+constitute:9
+mike:9
+cmu:9
+image:9
+200:9
+air:9
+entirely:9
+established:9
+exceeds:9
+north:9
+site:9
+caf:9
+chuck:9
+chuck	caf:9
+forsberg:9
+forsberg	caf:9
+forsberg	chuck:9
+caf	forsberg	chuck:9
+wa7kgx:9
+wa7kgx	caf:9
+wa7kgx	chuck:9
+caf	wa7kgx	chuck:9
+wa7kgx	forsberg:9
+caf	wa7kgx	forsberg:9
+chuck	wa7kgx	forsberg:9
+caf	chuck	wa7kgx	forsberg:9
+416:9
+416	toronto:9
+416	ontario:9
+toronto	416	ontario:9
+hamilton:9
+obtained:9
+somebody:9
+tm:9
+units:9
+enzyme:9
+play:9
+obesity:9
+terms:9
+factors:9
+junk:9
+figure:10
+naturally:10
+removed:10
+equivalent:10
+earlier:10
+feeling:10
+medications:10
+relationship:10
+status:10
+men:10
+depending:10
+minor:10
+provides:10
+respond:10
+putting:10
+foundation:10
+near:10
+comment:10
+offer:10
+personality:10
+practitioner:10
+bring:10
+fortunately:10
+510:10
+81:10
+login:10
+login	guest:9
+communications	login	guest:9
+login	408:9
+communications	login	408:9
+guest	login	408:9
+communications	guest	login	408:9
+login	241:9
+communications	login	241:9
+guest	login	241:9
+408	login	241:9
+communications	guest	login	241:9
+communications	408	login	241:9
+guest	408	login	241:9
+communications	guest	408	login	241:9
+login	9760:9
+communications	login	9760:9
+guest	login	9760:9
+408	login	9760:9
+241	login	9760:9
+communications	guest	login	9760:9
+communications	408	login	9760:9
+communications	241	login	9760:9
+guest	408	login	9760:9
+guest	241	login	9760:9
+408	241	login	9760:9
+communications	guest	408	login	9760:9
+communications	guest	241	login	9760:9
+communications	408	241	login	9760:9
+guest	408	241	login	9760:9
+communications	guest	408	241	login	9760:9
+login	online:9
+communications	login	online:9
+guest	login	online:9
+408	login	online:9
+241	login	online:9
+9760	login	online:9
+communications	guest	login	online:9
+communications	408	login	online:9
+communications	241	login	online:9
+communications	9760	login	online:9
+guest	408	login	online:9
+guest	241	login	online:9
+guest	9760	login	online:9
+408	241	login	online:9
+408	9760	login	online:9
+241	9760	login	online:9
+communications	guest	408	login	online:9
+communications	guest	241	login	online:9
+communications	guest	9760	login	online:9
+communications	408	241	login	online:9
+communications	408	9760	login	online:9
+communications	241	9760	login	online:9
+guest	408	241	login	online:9
+guest	408	9760	login	online:9
+guest	241	9760	login	online:9
+408	241	9760	login	online:9
+communications	guest	408	241	login	online:9
+communications	guest	408	9760	login	online:9
+communications	guest	241	9760	login	online:9
+communications	408	241	9760	login	online:9
+guest	408	241	9760	login	online:9
+communications	guest	408	241	9760	login	online:9
+login	communications:10
+raw:10
+sinuses:10
+totally:10
+white:10
+ate:10
+individuals:10
+orally:10
+organism:10
+saturday:10
+systemic:10
+west:10
+activity:10
+added:10
+andrew:10
+books:10
+douglas:10
+experiences:10
+findings:10
+patterns:10
+picture:10
+providing:10
+somewhere:10
+subjects:10
+todamhyp:10
+todamhyp	charles:10
+todamhyp	huey:10
+charles	todamhyp	huey:10
+unlv:10
+unlv	charles:10
+unlv	huey:10
+charles	unlv	huey:10
+unlv	todamhyp:10
+charles	unlv	todamhyp:10
+huey	unlv	todamhyp:10
+charles	huey	unlv	todamhyp:10
+vax:10
+kept:10
+au:10
+mention:10
+muscles:10
+table:10
+justified:10
+concern:10
+larc:10
+al:10
+et:10
+et	al:9
+excessive:10
+patently:10
+patently	absurd:9
+convince:10
+deep:10
+improved:10
+yeah:10
+gone:10
+allowed:10
+bellcore:10
+sea:10
+corp:10
+36:10
+43:10
+800:10
+across:10
+act:10
+cell:10
+died:10
+establishment:10
+indicates:10
+plan:10
+produces:10
+receive:10
+donald:10
+kxgst1:10
+kxgst1	gilbert:10
+umich:10
+1993apr17:10
+model:10
+comments:10
+collection:10
+context:10
+investigation:10
+observation:10
+spot:10
+themselves:10
+dealing:10
+description:10
+relevant:10
+cured:10
+man:10
+rd:10
+speak:10
+vegetables:10
+rare:10
+errors:10
+mistakes:10
+texas:10
+chicago:10
+sharon:10
+seizure:10
+topic:10
+typically:10
+pgh:10
+pgh	pa:10
+comm:10
+application:10
+wondering:10
+thus:10
+fit:10
+nc:10
+conventional:10
+1988:10
+role:10
+developer:10
+describe:10
+move:10
+shared:10
+hot:10
+1993apr16:10
+perfectly:10
+communication:11
+frequent:11
+immediately:11
+basically:11
+hurt:11
+quickly:11
+request:11
+range:11
+tech:11
+worry:11
+five:11
+nerve:11
+proper:11
+suggestions:11
+performed:11
+suffer:11
+helped:11
+modern:11
+chocolate:11
+dying:11
+fred:11
+columbia:11
+fungal:11
+island:11
+lawrence:11
+library:11
+park:11
+production:11
+argue:11
+huey:11
+huey	charles:10
+ill:11
+instance:11
+seriously:11
+st:11
+therapies:11
+universe:11
+understanding:11
+paul:11
+swelling:11
+personal:11
+salt:11
+opinion:11
+hasn:11
+meal:11
+risks:11
+definitely:11
+steroid:11
+absurd:11
+allergies:11
+beginning:11
+careful:11
+iv:11
+quacks:11
+reasonable:11
+record:11
+kill:11
+hospitals:11
+rich:11
+hi:11
+born:11
+design:11
+designed:11
+dose:11
+doses:11
+experiments:11
+gateway:11
+gateway	media:10
+hour:11
+injection:11
+maryland:11
+negative:11
+none:11
+percent:11
+prior:11
+project:11
+seattle:11
+toward:11
+ingredients:11
+acute:11
+amino:11
+arguments:11
+milk:11
+uhcc:11
+uhunix:11
+uhunix	uhcc:11
+approaches:11
+expires:11
+impossible:11
+truth:11
+continued:11
+gotten:11
+sent:11
+properly:11
+applied:11
+39:11
+happens:11
+yourself:11
+clean:11
+population:11
+cover:11
+dietary:11
+34:11
+uiuc:11
+finally:11
+poster:11
+root:11
+fruit:11
+giving:11
+space:11
+alcohol:11
+returned:11
+consume:11
+reactions:11
+personally:11
+stopped:11
+mmm:11
+thorson:11
+thorson	mmm:11
+ok:12
+prescription:12
+red:12
+worse:12
+types:12
+choice:12
+knows:12
+suggested:12
+words:12
+actual:12
+1993apr22:12
+mother:12
+ways:12
+follow:12
+absolutely:12
+conditions:12
+depends:12
+pay:12
+whom:12
+fever:12
+member:12
+infectious:12
+lower:12
+author:12
+claim:12
+promote:12
+safe:12
+shown:12
+structure:12
+mostly:12
+looks:12
+processing:12
+rapid:12
+exists:12
+letter:12
+fire:12
+silver:12
+vs:12
+wish:12
+allergy:12
+chemicals:12
+gives:12
+gives	approach:9
+stress:12
+daughter:12
+according:12
+active:12
+existing:12
+fields:12
+george:12
+journal:12
+mr:12
+outside:12
+potential:12
+practitioners:12
+press:12
+prove:12
+responses:12
+six:12
+techniques:12
+gilbert:12
+substance:12
+familiar:12
+main:12
+nutrition:12
+proposed:12
+admit:12
+dan:12
+suffering:12
+fresh:12
+discomfort:12
+regarding:12
+requires:12
+psychological:12
+merrill:12
+essentially:12
+ten:12
+brown:12
+bill:12
+strong:12
+ontario:12
+ontario	toronto:9
+stop:12
+references:12
+eaten:12
+easily:12
+alone:13
+dry:13
+eventually:13
+luck:13
+continue:13
+realize:13
+sorry:13
+instead:13
+obvious:13
+explanation:13
+methods:13
+relief:13
+41:13
+folks:13
+pressure:13
+source:13
+direct:13
+insurance:13
+mild:13
+online:13
+online	communications:10
+online	communications	408:9
+online	guest:10
+online	guest	communications:9
+408	online	guest	communications:9
+online	guest	408:10
+online	241:10
+online	241	communications:9
+408	online	241	communications:9
+guest	online	241	communications:9
+408	guest	online	241	communications:9
+online	241	408:10
+online	241	guest:10
+408	online	241	guest:10
+online	9760:10
+online	9760	communications:9
+408	online	9760	communications:9
+guest	online	9760	communications:9
+241	online	9760	communications:9
+408	guest	online	9760	communications:9
+408	241	online	9760	communications:9
+guest	241	online	9760	communications:9
+408	guest	241	online	9760	communications:9
+online	9760	408:10
+online	9760	guest:10
+408	online	9760	guest:10
+online	9760	241:10
+408	online	9760	241:10
+guest	online	9760	241:10
+408	guest	online	9760	241:10
+online	408:11
+benefit:13
+complete:13
+neither:13
+period:13
+professional:13
+unknown:13
+schools:13
+44:13
+light:13
+sounds:13
+computing:13
+chest:13
+stephen:13
+barbecued:13
+muscle:13
+helpful:13
+oh:13
+occur:13
+45:13
+80:13
+contains:13
+described:13
+developed:13
+essential:13
+interest:13
+previously:13
+primary:13
+suggest:13
+training:13
+uses:13
+working:13
+love:13
+mechanism:13
+recognized:13
+engineering:13
+inflammatory:13
+exposure:13
+overall:13
+aware:13
+together:13
+avoiding:13
+experiment:13
+drink:13
+ed:13
+doug:13
+v1:13
+40:13
+illinois:13
+tend:13
+upon:13
+machine:13
+consider:13
+241:14
+241	communications:9
+guest	241	communications:9
+408	241	communications:9
+guest	408	241	communications:9
+241	guest:14
+241	408:14
+guest	241	408:14
+9760:14
+9760	communications:9
+guest	9760	communications:9
+408	9760	communications:9
+241	9760	communications:9
+guest	408	9760	communications:9
+guest	241	9760	communications:9
+408	241	9760	communications:9
+guest	408	241	9760	communications:9
+9760	guest:14
+9760	408:14
+guest	9760	408:14
+9760	241:14
+guest	9760	241:14
+408	9760	241:14
+guest	408	9760	241:14
+goes:14
+trouble:14
+usual:14
+sensitive:14
+gave:14
+situation:14
+alt:14
+die:14
+produced:14
+diagnose:14
+previous:14
+write:14
+doubt:14
+lead:14
+relatively:14
+grief:14
+international:14
+containing:14
+present:14
+1993apr19:14
+allow:14
+everyone:14
+wonder:14
+amateur:14
+involves:14
+involves	allow:9
+turned:14
+double:14
+double	blind:13
+particularly:14
+sit:14
+written:14
+close:14
+address:14
+animals:14
+attention:14
+cells:14
+compared:14
+difficult:14
+finding:14
+virginia:14
+headaches:14
+surprised:14
+thread:14
+31:14
+somewhat:14
+amounts:14
+noticed:14
+radio:14
+radio	amateur:9
+33:14
+eng:14
+box:14
+replies:14
+27:14
+ph:14
+toronto:14
+408:15
+408	communications:9
+guest	408	communications:9
+408	guest:14
+appropriate:15
+industry:15
+explain:15
+original:15
+open:15
+posted:15
+boston:15
+flavor:15
+controlled:15
+function:15
+looked:15
+cut:15
+occurs:15
+happened:15
+necessarily:15
+total:15
+worked:15
+mouth:15
+shows:15
+via:15
+companies:15
+directly:15
+disclaimer:15
+education:15
+education	companies:10
+add:15
+affect:15
+artificial:15
+blind:15
+purpose:15
+28:15
+gain:15
+ima:15
+ima	cambridge:12
+aka	ima	cambridge:12
+ursa	ima	cambridge:12
+aka	ursa	ima	cambridge:12
+ima	consulting:12
+aka	ima	consulting:12
+ursa	ima	consulting:12
+cambridge	ima	consulting:12
+aka	ursa	ima	consulting:12
+aka	cambridge	ima	consulting:12
+ursa	cambridge	ima	consulting:12
+aka	ursa	cambridge	ima	consulting:12
+ima	aka:15
+ima	ursa:15
+aka	ima	ursa:15
+linus:15
+linus	cambridge:12
+aka	linus	cambridge:12
+ursa	linus	cambridge:12
+ima	linus	cambridge:12
+aka	ursa	linus	cambridge:12
+aka	ima	linus	cambridge:12
+ursa	ima	linus	cambridge:12
+aka	ursa	ima	linus	cambridge:12
+linus	consulting:12
+aka	linus	consulting:12
+ursa	linus	consulting:12
+ima	linus	consulting:12
+cambridge	linus	consulting:12
+aka	ursa	linus	consulting:12
+aka	ima	linus	consulting:12
+aka	cambridge	linus	consulting:12
+ursa	ima	linus	consulting:12
+ursa	cambridge	linus	consulting:12
+ima	cambridge	linus	consulting:12
+aka	ursa	ima	linus	consulting:12
+aka	ursa	cambridge	linus	consulting:12
+aka	ima	cambridge	linus	consulting:12
+ursa	ima	cambridge	linus	consulting:12
+aka	ursa	ima	cambridge	linus	consulting:12
+linus	aka:15
+linus	ursa:15
+aka	linus	ursa:15
+linus	ima:15
+aka	linus	ima:15
+ursa	linus	ima:15
+aka	ursa	linus	ima:15
+m2c:15
+m2c	cambridge:12
+aka	m2c	cambridge:12
+ursa	m2c	cambridge:12
+ima	m2c	cambridge:12
+linus	m2c	cambridge:12
+aka	ursa	m2c	cambridge:12
+aka	ima	m2c	cambridge:12
+aka	linus	m2c	cambridge:12
+ursa	ima	m2c	cambridge:12
+ursa	linus	m2c	cambridge:12
+ima	linus	m2c	cambridge:12
+aka	ursa	ima	m2c	cambridge:12
+aka	ursa	linus	m2c	cambridge:12
+aka	ima	linus	m2c	cambridge:12
+ursa	ima	linus	m2c	cambridge:12
+aka	ursa	ima	linus	m2c	cambridge:12
+m2c	consulting:12
+aka	m2c	consulting:12
+ursa	m2c	consulting:12
+ima	m2c	consulting:12
+linus	m2c	consulting:12
+cambridge	m2c	consulting:12
+aka	ursa	m2c	consulting:12
+aka	ima	m2c	consulting:12
+aka	linus	m2c	consulting:12
+aka	cambridge	m2c	consulting:12
+ursa	ima	m2c	consulting:12
+ursa	linus	m2c	consulting:12
+ursa	cambridge	m2c	consulting:12
+ima	linus	m2c	consulting:12
+ima	cambridge	m2c	consulting:12
+linus	cambridge	m2c	consulting:12
+aka	ursa	ima	m2c	consulting:12
+aka	ursa	linus	m2c	consulting:12
+aka	ursa	cambridge	m2c	consulting:12
+aka	ima	linus	m2c	consulting:12
+aka	ima	cambridge	m2c	consulting:12
+aka	linus	cambridge	m2c	consulting:12
+ursa	ima	linus	m2c	consulting:12
+ursa	ima	cambridge	m2c	consulting:12
+ursa	linus	cambridge	m2c	consulting:12
+ima	linus	cambridge	m2c	consulting:12
+aka	ursa	ima	linus	m2c	consulting:12
+aka	ursa	ima	cambridge	m2c	consulting:12
+aka	ursa	linus	cambridge	m2c	consulting:12
+aka	ima	linus	cambridge	m2c	consulting:12
+ursa	ima	linus	cambridge	m2c	consulting:12
+aka	ursa	ima	linus	cambridge	m2c	consulting:12
+m2c	aka:15
+m2c	ursa:15
+aka	m2c	ursa:15
+m2c	ima:15
+aka	m2c	ima:15
+ursa	m2c	ima:15
+aka	ursa	m2c	ima:15
+m2c	linus:15
+aka	m2c	linus:15
+ursa	m2c	linus:15
+ima	m2c	linus:15
+aka	ursa	m2c	linus:15
+aka	ima	m2c	linus:15
+ursa	ima	m2c	linus:15
+aka	ursa	ima	m2c	linus:15
+rayssd:15
+rayssd	cambridge:12
+aka	rayssd	cambridge:12
+ursa	rayssd	cambridge:12
+ima	rayssd	cambridge:12
+linus	rayssd	cambridge:12
+m2c	rayssd	cambridge:12
+aka	ursa	rayssd	cambridge:12
+aka	ima	rayssd	cambridge:12
+aka	linus	rayssd	cambridge:12
+aka	m2c	rayssd	cambridge:12
+ursa	ima	rayssd	cambridge:12
+ursa	linus	rayssd	cambridge:12
+ursa	m2c	rayssd	cambridge:12
+ima	linus	rayssd	cambridge:12
+ima	m2c	rayssd	cambridge:12
+linus	m2c	rayssd	cambridge:12
+aka	ursa	ima	rayssd	cambridge:12
+aka	ursa	linus	rayssd	cambridge:12
+aka	ursa	m2c	rayssd	cambridge:12
+aka	ima	linus	rayssd	cambridge:12
+aka	ima	m2c	rayssd	cambridge:12
+aka	linus	m2c	rayssd	cambridge:12
+ursa	ima	linus	rayssd	cambridge:12
+ursa	ima	m2c	rayssd	cambridge:12
+ursa	linus	m2c	rayssd	cambridge:12
+ima	linus	m2c	rayssd	cambridge:12
+aka	ursa	ima	linus	rayssd	cambridge:12
+aka	ursa	ima	m2c	rayssd	cambridge:12
+aka	ursa	linus	m2c	rayssd	cambridge:12
+aka	ima	linus	m2c	rayssd	cambridge:12
+ursa	ima	linus	m2c	rayssd	cambridge:12
+aka	ursa	ima	linus	m2c	rayssd	cambridge:12
+rayssd	consulting:12
+aka	rayssd	consulting:12
+ursa	rayssd	consulting:12
+ima	rayssd	consulting:12
+linus	rayssd	consulting:12
+m2c	rayssd	consulting:12
+cambridge	rayssd	consulting:12
+aka	ursa	rayssd	consulting:12
+aka	ima	rayssd	consulting:12
+aka	linus	rayssd	consulting:12
+aka	m2c	rayssd	consulting:12
+aka	cambridge	rayssd	consulting:12
+ursa	ima	rayssd	consulting:12
+ursa	linus	rayssd	consulting:12
+ursa	m2c	rayssd	consulting:12
+ursa	cambridge	rayssd	consulting:12
+ima	linus	rayssd	consulting:12
+ima	m2c	rayssd	consulting:12
+ima	cambridge	rayssd	consulting:12
+linus	m2c	rayssd	consulting:12
+linus	cambridge	rayssd	consulting:12
+m2c	cambridge	rayssd	consulting:12
+aka	ursa	ima	rayssd	consulting:12
+aka	ursa	linus	rayssd	consulting:12
+aka	ursa	m2c	rayssd	consulting:12
+aka	ursa	cambridge	rayssd	consulting:12
+aka	ima	linus	rayssd	consulting:12
+aka	ima	m2c	rayssd	consulting:12
+aka	ima	cambridge	rayssd	consulting:12
+aka	linus	m2c	rayssd	consulting:12
+aka	linus	cambridge	rayssd	consulting:12
+aka	m2c	cambridge	rayssd	consulting:12
+ursa	ima	linus	rayssd	consulting:12
+ursa	ima	m2c	rayssd	consulting:12
+ursa	ima	cambridge	rayssd	consulting:12
+ursa	linus	m2c	rayssd	consulting:12
+ursa	linus	cambridge	rayssd	consulting:12
+ursa	m2c	cambridge	rayssd	consulting:12
+ima	linus	m2c	rayssd	consulting:12
+ima	linus	cambridge	rayssd	consulting:12
+ima	m2c	cambridge	rayssd	consulting:12
+linus	m2c	cambridge	rayssd	consulting:12
+aka	ursa	ima	linus	rayssd	consulting:12
+aka	ursa	ima	m2c	rayssd	consulting:12
+aka	ursa	ima	cambridge	rayssd	consulting:12
+aka	ursa	linus	m2c	rayssd	consulting:12
+aka	ursa	linus	cambridge	rayssd	consulting:12
+aka	ursa	m2c	cambridge	rayssd	consulting:12
+aka	ima	linus	m2c	rayssd	consulting:12
+aka	ima	linus	cambridge	rayssd	consulting:12
+aka	ima	m2c	cambridge	rayssd	consulting:12
+aka	linus	m2c	cambridge	rayssd	consulting:12
+ursa	ima	linus	m2c	rayssd	consulting:12
+ursa	ima	linus	cambridge	rayssd	consulting:12
+ursa	ima	m2c	cambridge	rayssd	consulting:12
+ursa	linus	m2c	cambridge	rayssd	consulting:12
+ima	linus	m2c	cambridge	rayssd	consulting:12
+aka	ursa	ima	linus	m2c	rayssd	consulting:12
+aka	ursa	ima	linus	cambridge	rayssd	consulting:12
+aka	ursa	ima	m2c	cambridge	rayssd	consulting:12
+aka	ursa	linus	m2c	cambridge	rayssd	consulting:12
+aka	ima	linus	m2c	cambridge	rayssd	consulting:12
+ursa	ima	linus	m2c	cambridge	rayssd	consulting:12
+aka	ursa	ima	linus	m2c	cambridge	rayssd	consulting:12
+rayssd	aka:15
+rayssd	ursa:15
+aka	rayssd	ursa:15
+rayssd	ima:15
+aka	rayssd	ima:15
+ursa	rayssd	ima:15
+aka	ursa	rayssd	ima:15
+rayssd	linus:15
+aka	rayssd	linus:15
+ursa	rayssd	linus:15
+ima	rayssd	linus:15
+aka	ursa	rayssd	linus:15
+aka	ima	rayssd	linus:15
+ursa	ima	rayssd	linus:15
+aka	ursa	ima	rayssd	linus:15
+rayssd	m2c:15
+aka	rayssd	m2c:15
+ursa	rayssd	m2c:15
+ima	rayssd	m2c:15
+linus	rayssd	m2c:15
+aka	ursa	rayssd	m2c:15
+aka	ima	rayssd	m2c:15
+aka	linus	rayssd	m2c:15
+ursa	ima	rayssd	m2c:15
+ursa	linus	rayssd	m2c:15
+ima	linus	rayssd	m2c:15
+aka	ursa	ima	rayssd	m2c:15
+aka	ursa	linus	rayssd	m2c:15
+aka	ima	linus	rayssd	m2c:15
+ursa	ima	linus	rayssd	m2c:15
+aka	ursa	ima	linus	rayssd	m2c:15
+wisconsin:15
+cambridge:15
+cambridge	aka:12
+cambridge	ursa:12
+aka	cambridge	ursa:12
+consulting:15
+consulting	aka:12
+ursa	consulting	aka:12
+consulting	cambridge:12
+ursa	consulting	cambridge:12
+aka	consulting	cambridge:12
+ursa	aka	consulting	cambridge:12
+consulting	ursa:13
+extreme:15
+longer:15
+produce:15
+wasn:15
+sp:15
+ken:15
+usenet:15
+behavior:15
+received:15
+fda:15
+half:15
+higher:15
+require:15
+size:15
+review:15
+38:15
+starting:15
+unix:15
+pa:15
+media:15
+media	70:9
+70:15
+chance:16
+exactly:16
+facts:16
+discovered:16
+business:16
+vary:16
+32:16
+action:16
+normally:16
+itself:16
+showed:16
+showed	testing:10
+story:16
+ursa:16
+ursa	aka:15
+paper:16
+sound:16
+needs:16
+internal:16
+talking:16
+limited:16
+rest:16
+basic:16
+apply:16
+obviously:16
+decided:16
+23:16
+35:16
+guest:17
+guest	communications:9
+blue:17
+myself:17
+dangerous:17
+responsible:17
+reduce:17
+couldn:17
+expensive:17
+lost:17
+tin:17
+tin	newsreader:17
+special:17
+therefore:17
+contain:17
+headache:17
+cross:17
+60:17
+developing:17
+included:17
+word:17
+word	typical:9
+chemical:17
+future:17
+network:17
+hear:17
+whose:17
+discussion:17
+date:17
+unfortunately:18
+26:18
+comes:18
+anyway:18
+damage:18
+beyond:18
+communications:18
+communications	means:9
+night:18
+daniel:18
+articles:18
+oral:18
+nor:18
+generally:18
+worth:18
+along:19
+nose:19
+deal:19
+medication:19
+saw:19
+mass:19
+areas:19
+areas	approach:9
+appears:19
+healthy:19
+becomes:19
+below:19
+change:19
+aren:19
+appreciate:19
+connection:19
+happen:19
+currently:19
+lack:19
+needed:19
+fine:19
+mentioned:19
+later:19
+advance:19
+guess:19
+basis:19
+indeed:20
+wants:20
+develop:20
+necessary:20
+easy:20
+treated:20
+charles:20
+testing:20
+testing	approach:9
+except:20
+typical:20
+single:20
+frequently:20
+possibly:21
+company:21
+anybody:21
+1993apr15:21
+completely:22
+newsreader:22
+aka:22
+extremely:22
+took:22
+29:22
+haven:22
+approach:22
+history:22
+25:22
+simply:23
+treating:23
+highly:23
+seeing:23
+originator:23
+means:24
+came:25
